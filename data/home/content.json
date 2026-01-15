@@ -40,6 +40,13 @@
         "summary":"“Interpreting Radiologist’s Intention from Eye Movements in Chest X-ray Diagnosis” Authors: Trong-Thang Pham, Anh Nguyen, Zhigang Deng, Carol C. Wu, Hien Van Nguyen, Ngan Le",
         "image": "news4.png",
         "link":"https://acmmm2025.org/awards/"
+    },
+    {
+        "date": "2026-01-06",
+        "title": "New AI Tool Can Take Cattle's Temperature With Only a Photo",
+        "summary":"Trong-Thang Pham, and other authors, have developed CattleFever, an automated system that can accurately estimate body temperature of cattle using artificial intelligence and thermal cameras.",
+        "image": "cattle_temperature.jpg",
+        "link":"https://news.uark.edu/articles/80570/new-ai-tool-can-take-cattle-s-temperature-with-only-a-photo"
     }
   ],
   "sponsors": [
