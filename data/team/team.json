@@ -146,10 +146,23 @@
     {
         "name": "Marta Veganzones",
         "position": "Associate Researcher",
-        "email": "",
+        "email": "mveganzo@uark.edu",
         "photo": "marta_veganzones.png",
         "years": "Since Aug 2025",
-        "bio": ""
+        "bio": "",
+        "links": [
+            { "label": "Google Scholar", "url": "https://scholar.google.com/citations?user=xTsV9kMAAAAJ&hl=es&oi=ao"},
+            { "label": "LinkedIn", "url": "https://www.linkedin.com/in/martaveganzonesrodriguez/"},
+            {"label":"Github", "url": "https://github.com/mveganzo"}
+        ],
+        "details": [
+            {
+                "heading": "Research Interests",
+                "data": [
+                    
+                ]
+            }
+        ]
     },
     {
         "name": "Sieu Tran",
@@ -226,10 +239,26 @@
     {
         "name": "Farid Hashemian",
         "position": "Masters Student",
-        "email": "",
-        "photo": "farid_hashemian.png",
+        "email": "sfhashem@uark.edu",
+        "photo": "farid_hashemian.jpeg",
         "years": "Since 2023",
-        "bio": ""
+        "bio": "Farid Hashemian is a master’s student whose research focuses on machine learning and statistical methods for complex, high-dimensional data. His work emphasizes scalable algorithms and robust representations for incomplete and uncertain data, with the goal of improving predictive reliability and generalization through optimization-based approaches."
+        ,
+        "links": [
+            { "label": "Google Scholar", "url": "https://scholar.google.com/citations?user=UmFyqKEAAAAJ&hl=en"},
+            { "label": "LinkedIn", "url": "https://www.linkedin.com/in/farid-hashemian-1657b3a9/"}
+        ],
+        
+        "details": [
+            {
+                "heading": "Research Interests",
+                "data": [
+                    "Self-supervised and representation learning",
+                    "Machine learning and statistical learning",
+                    "Data-driven decision-making and prescriptive analytics"
+                ]
+            }
+        ]
     },
     {
         "name": "Annie Prasanna Manoharan",
@@ -280,20 +309,49 @@
         "bio": ""
     },
     {
+        "name": "Kashu Yamazaki",
+        "position": "Alumni",
+        "email": "kyamazak@uark.edu",
+        "photo": "kashu_yamazaki.jpg",
+        "years": "BASc (graduated 2022) - Meta",
+        "bio": "Kashu received a M.S. degree in computer science from the University of Arkansas, Fayetteville, in 2023. Previously, he received a B.S. degree with summa cum laude in mechanical engineering from the University of Arkansas, Fayetteville, in 2020. His research interests are vision-language models and robotics. He has authored publications appearing in international conferences and journals. He is a member of Tau Beta Pi."
+        ,
+        "links": [
+            { "label": "Google Scholar", "url": "https://scholar.google.com/citations?user=TF2LRvMAAAAJ"},
+            { "label": "LinkedIn", "url": "https://www.linkedin.com/in/kashu-y-51a62b128"},
+            { "label": "Github", "url": "https://github.com/Kashu7100"}
+        ]
+    },
+    {
         "name": "Gustavo Gracia",
         "position": "Alumni",
         "email": "",
         "photo": "gustavo_gracia.png",
         "years": "BASc (graduated 2022) - Meta",
-        "bio": ""
+        "bio": "",
+        "links": [
+            { "label": "LinkedIn", "url": "https://www.linkedin.com/in/gustavogarcia99"}
+        ]
     },
     {
-        "name": "Adrian Luis",
+        "name": "Adrian de Luis",
         "position": "Alumni",
-        "email": "",
+        "email": "ad084@uark.edu",
         "photo": "adrian_luis.png",
         "years": "MSc (graduated 2023) - Dell",
-        "bio": ""
+        "bio": "Adrian de Luis was a Research Assistant at the AICV Lab. He started his Master’s of Science in Computer Science in January 2022 after working at GMV for around 3 years. He was part of the team which developed the Precise Positioning algorithm included in the next generation of vehicles for the BMW group at the time. Before his time at GMV, he graduated from the Bachelor’s of Science at the Universidad Carlos III in Telecommunication Technologies Engineering."
+        ,
+        "links": [
+            { "label": "LinkedIn", "url": "https://www.linkedin.com/in/adrian-de-luis-b113231b5/"}
+        ],
+        "details": [
+            {
+                "heading": "Research Interests",
+                "data": [
+                    "Remote Sensing focused on aerial imagery"
+                ]
+            }
+        ]
     },
     {
         "name": "Sang Truong",
@@ -302,6 +360,18 @@
         "photo": "sang_truong.jpg",
         "years": "MSc (graduated 2023)",
         "bio": ""
+        ,
+        "links": [
+            { "label": "Google Scholar", "url": "https://scholar.google.com/citations?user=JG2yzhgAAAAJ"}
+        ],
+        "details": [
+            {
+                "heading": "Research Interests",
+                "data": [
+                    "Remote Sensing focused on aerial imagery"
+                ]
+            }
+        ]
     },
     {
         "name": "Noah Core",
@@ -318,11 +388,15 @@
         "photo": "kala_rohit.png",
         "years": "BSc (graduated 2023)",
         "bio": ""
+        ,
+        "links": [
+            { "label": "LinkedIn", "url": "https://www.linkedin.com/in/rohit-kala-1b891a179"}
+        ]
     },
     {
         "name": "Anh Tran",
         "position": "Alumni",
-        "email": "",
+        "email": "anhtran@uark.edu",
         "photo": "anh_tran.png",
         "years": "BSc (graduated 2025) - Tyson",
         "bio": ""
@@ -330,18 +404,28 @@
     {
         "name": "Malachi Massey",
         "position": "Alumni",
-        "email": "",
+        "email": "mm204@uark.edu",
         "photo": "malachi_massey.jpg",
         "years": "BSc (graduated 2025) - Moss & Associates",
-        "bio": ""
+        "bio": "Malachi Massey was a Research Assistant in the AICV lab. He worked on aerial Solar PV image analysis with Esteban Duran Marti. He has internship experience in the solar industry."
+        ,
+        "links": [
+            { "label": "LinkedIn", "url": "https://www.linkedin.com/in/malachi-massey-6005bb199"},
+            { "label": "Github", "url": "https://github.com/MalachiMassey"}
+        ]
     },
     {
         "name": "Esteban Duran Marti",
         "position": "Alumni",
-        "email": "",
+        "email": "eaduran@uark.edu",
         "photo": "esteban_duran.jpeg",
         "years": "Masters Graduate May 2025 - capSpite",
         "bio": ""
+        ,
+        "links": [
+            { "label": "LinkedIn", "url": "https://www.linkedin.com/in/https://www.linkedin.com/in/esteban-duran-marti/"},
+            { "label": "Github", "url": "https://github.com/Estebanadm"}
+        ]
     },
     {
         "name": "Phillip Cannon",
@@ -354,10 +438,14 @@
         {
         "name": "Frederick Bumgarner",
         "position": "Alumni",
-        "email": "",
+        "email": "jzbumgar@uark.edu",
         "photo": "frederick_bumgarner.png",
         "years": "Undergraduate Dec 2025 - NextGen",
-        "bio": ""
+        "bio": "Frederick Bumgarner was a lab assistant at the AICV Lab. He was working under Khoa Voho on research into 3D object tracking and analysis."
+        ,
+        "links": [
+            { "label": "Github", "url": "https://github.com/FrederickThemar"}
+        ]
     },
     {
         "name": "Yuki Ikebe",
@@ -378,10 +466,23 @@
     {
         "name": "Bryan Williams",
         "position": "Undergraduate Student",
-        "email": "",
+        "email": "bryanw@uark.edu",
         "photo": "bryan_williams.png",
         "years": "Since 2024",
-        "bio": ""
+        "bio": "Bryan is a senior Computer Science major in the honors college with a strong interest in pursuing a career in machine learning. My research focuses on video-based action recognition using multi-camera data. For my honors thesis, I plan to built an end-to-end deep learning pipeline for long-horizon action recognition and evaluated multiple spatiotemporal model architectures."
+        ,
+        "links": [
+            { "label": "LinkedIn", "url": "www.linkedin.com/in/bryan-williams-81a6b5220"}
+        ],
+        "details": [
+            {
+                "heading": "Research Interests",
+                "data": [
+                    "Video-based action recognition",
+                    "Multi-camera systems"
+                ]
+            }
+        ]
     },
     {
         "name": "Gladys Gawugah",
