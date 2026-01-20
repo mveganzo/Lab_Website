@@ -1,34 +1,40 @@
 [
   {
-    "title": "Robotic Control & Embodied AI",
-    "description": "We study perception-grounded robotic control that integrates language, vision, and 3D geometry to enable robust, interpretable robot arm manipulation in open-world environments."
+    "title": "Computer Vision",
+    "icons": ["computer_vision_1.png", "computer_vision_2.png", "computer_vision_3.png", "computer_vision_4.png", "computer_vision_5.png"],
+    "items": ["Object Localization",
+              "Amodal Perception",
+              "Video Understanding",
+              "Object Tracking",
+              "Multi-view Analysis",
+              "Animal Welfare"]
   },
   {
-    "title": "Medical Imaging & Clinical AI",
-    "description": "We develop clinically aligned AI systems for medical imaging and bio-signals that emphasize interpretability, multimodal reasoning, and alignment with human expertise."
+    "title": "Remote Sensing",
+    "icons": ["remote_sensing_1.png", "remote_sensing_2.png", "remote_sensing_3.png", "remote_sensing_4.png"],
+    "items": ["Precision Agriculture",
+              "Earth Surface Analysis",
+              "Weather Forecasting",
+              "Water Assessment",
+              "Res. Reconstruction"]
   },
   {
-    "title": "Video Understanding",
-    "description": "We design models for structured video understanding that reason over long-term temporal dynamics, entities, and interactions in complex real-world scenarios."
+    "title": "Robot Perception",
+    "icons": ["robot_perception_1.png"],
+    "items": ["3D Reconstruction",
+              "Affordance Detection",
+              "Robot Manipulation",
+              "Efficient Design",
+              "Vision Language Action"]
   },
   {
-    "title": "Amodal Instance Segmentation",
-    "description": "We investigate amodal perception methods that infer complete object shapes and identities beyond visible regions, enabling robust reasoning under occlusion."
-  },
-  {
-    "title": "Multi-Object Tracking & Motion Analysis",
-    "description": "We build scalable tracking and motion reasoning systems that generalize across scenes, categories, and supervision regimes."
-  },
-  {
-    "title": "3D Scene Understanding & Open-Vocabulary Perception",
-    "description": "We create object-centric 3D scene representations that support open-vocabulary querying, spatial reasoning, and downstream interaction."
-  },
-  {
-    "title": "Human-Centered & Explainable AI",
-    "description": "We explore human-in-the-loop learning using signals such as gaze, language, and feedback to improve transparency and trust in AI systems."
-  },
-  {
-    "title": "Applied Computer Vision",
-    "description": "We translate foundational vision models into real-world applications, emphasizing robustness, scalability, and deployment in unconstrained environments."
+    "title": "Healthcare",
+    "icons": [""],
+    "items": ["Anatomies Localization",
+              "Anomaly Detection",
+              "Disease Diagnosis",
+              "Report Generation",
+              "X-AI in Healthcare",
+              "Education Training"]
   }
 ]

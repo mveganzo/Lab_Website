@@ -420,10 +420,23 @@ async function renderResearchPage() {
         const researchCards = researchAreas.map(area => `
             <div class="bg-white p-6 rounded-xl shadow-md border border-gray-100 hover:shadow-lg transition-shadow duration-300">
                 <h3 class="text-xl font-bold text-gray-900 mb-2">${area.title}</h3>
-                ${area.subtitle ? `<p class="text-xs font-bold text-blue-600 mb-3 uppercase tracking-wider">${area.subtitle}</p>` : ''}
-                <p class="text-gray-600 leading-relaxed text-sm">
-                    ${area.description}
-                </p>
+                ${(Array.isArray(area.icons) && area.icons.length) ? `
+                    <div class="flex gap-3 mb-5">
+                        ${area.icons.map(src => `
+                        <div class="w-11 h-11 rounded-full border-2 border-gray-700/40 bg-white flex items-center justify-center overflow-hidden">
+                            <img src="${src}" alt="" class="w-7 h-7 object-contain" />
+                        </div>
+                        `).join('')}
+                    </div>
+                    ` : ''}
+
+                ${(Array.isArray(area.items) && area.items.length) ? `
+                <div class="space-y-2">
+                    ${area.items.map(t => `
+                    <div class="text-lg text-gray-900 leading-snug">${t}</div>
+                    `).join('')}
+                </div>
+                ` : ''}
             </div>
         `).join('');
 
