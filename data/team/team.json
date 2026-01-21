@@ -1,6 +1,7 @@
 [
     {
         "name": "Dr. Ngan Le",
+        "category": "Staff",
         "position": "Principal Investigator/Assistant Professor",
         "photo": "ngan_le.jpg",
         "bio": "Dr. Le is the director of the Artificial Intelligence and Computer Vision Lab and an Assistant Professor in the Department of Computer Science & Computer Engineering at the University of Arkansas. She was a research associate in the Department of Electrical and Computer Engineering (ECE) at Carnegie Mellon University (CMU) in 2018-2019. She received a Ph.D degree in ECE at CMU in 2018, ECE Master degree at CMU in 2015, CS Master Degree at the University of Science, Vietnam in 2009 and CS Bachelor degree at the University of Science, Vietnam in 2005.   Her current research interests focus on Image Understanding, Video Understanding, Computer Vision, Robotics, Artificial Intelligence (Machine Learning, Deep Learning, Reinforcement Learning), Biomedical Imaging, SingleCell-RNA.   Dr. Le is currently an Associate Editor of Elsevier Machine Learning with Applications, a Guest Editor of Scene Understanding in Autonomous (Frontier, a Guest Editor of Artificial intelligence in Biomedicine and Healthcare (MDPI), and a Program Chair of Asilomar 2022. She co-organized the Deep Reinforcement Learning Tutorial for Medical Imaging at MICCAI 2018, Medical Image Learning with Less Labels and Imperfect Data workshop at MICCAI 2019, 2020, 2021, Visual Detection, Recognition and Prediction at Altitude and Range at ICCV 2022. Dr. Le is instructor lead of the Google Machine Learning Bootcamp 2021.Her publications appear in the top-tier conferences including CVPR, MICCAI, ICCV, SPIE, IJCV, ICIP etc, and premier journals including IJCV, JESA, TIP, PR, JDSP, TIFS, etc. She has co-authored 75+ journals, conference papers, and book chapters, 9+ patents and inventions. She has served as a reviewer for 10+ top-tier conferences and journals, including TPAMI, AAAI, CVPR, NIPS, ICCV, ECCV, MICCAI, TIP, PR, TAI, IVC, etc",
@@ -137,6 +138,7 @@
     },
     {
         "name": "Khoa Vo",
+        "category": "Staff",
         "position": "Postdoctoral Researcher",
         "photo": "khoa_vo.jpg",
         "years": "Since Jan 2025",
@@ -162,6 +164,7 @@
     },
     {
         "name": "Marta Veganzones",
+        "category": "Staff",
         "position": "Associate Researcher",
         "email": "mveganzo@uark.edu",
         "photo": "marta_veganzones.png",
@@ -189,7 +192,7 @@
     },
     {
         "name": "Minh Tran",
-        "position": "PhD Student",
+        "category": "PhD Student",
         "email": "minht@uark.edu",
         "photo": "minh_tran.png",
         "years": "Since 2021",
@@ -212,7 +215,7 @@
     },
     {
         "name": "Thinh Phan",
-        "position": "PhD Student",
+        "category": "PhD Student",
         "email": "thinhp@uark.edu",
         "photo": "thinh_phan.jpeg",
         "years": "Since 2023",
@@ -233,7 +236,7 @@
     },
     {
         "name": "Trong Thang Pham",
-        "position": "PhD Student",
+        "category": "PhD Student",
         "email": "tp030@uark.edu",
         "photo": "thang_pham.png",
         "years": "Since 2023",
@@ -260,7 +263,7 @@
     },
     {
         "name": "Cuong Ngo",
-        "position": "Masters Student",
+        "category": "Masters Student",
         "email": "cngo@uark.edu",
         "photo": "cuong_ngo.jpeg",
         "years": "Since Aug 2025",
@@ -277,7 +280,7 @@
     },
     {
         "name": "Taisei Hanyu",
-        "position": "Masters Student",
+        "category": "Masters Student",
         "email": "thanyu@uark.edu",
         "photo": "taisei_hanyu.jpg",
         "years": "Since 2022",
@@ -297,7 +300,7 @@
     },
     {
         "name": "Mark Agnello Alexraj",
-        "position": "Masters Student",
+        "category": "Masters Student",
         "email": "maalexra@uark.edu",
         "photo": "",
         "years": "Since Jan 2025",
@@ -313,7 +316,7 @@
     },
     {
         "name": "Hao Vo",
-        "position": "Masters Student",
+        "category": "Masters Student",
         "email": "haov@uark.edu",
         "photo": "hao_vo.jpg",
         "years": "Since 2025",
@@ -330,7 +333,7 @@
     },
     {
         "name": "Farid Hashemian",
-        "position": "Masters Student",
+        "category": "Masters Student",
         "email": "sfhashem@uark.edu",
         "photo": "farid_hashemian.jpeg",
         "years": "Since 2023",
@@ -353,7 +356,7 @@
     },
     {
         "name": "Annie Prasanna Manoharan",
-        "position": "Masters Student",
+        "category": "Masters Student",
         "email": "am442@uark.edu",
         "photo": "annie_prasanna.png",
         "years": "Since 2024",
@@ -365,7 +368,7 @@
     },
     {
         "name": "Samuel Michael Lin",
-        "position": "Masters Student",
+        "category": "Masters Student",
         "email": "",
         "photo": "no_pic.png",
         "years": "Since 2024",
@@ -373,7 +376,7 @@
     },
     {
         "name": "Winston Bounsavy",
-        "position": "Undergraduate Student",
+        "category": "Undergraduate Student",
         "email": "bounsavy@uark.edu",
         "photo": "winston_bounsavy.jpg",
         "years": "Since 2022",
@@ -384,7 +387,7 @@
     },
     {
         "name": "Ethan Coffman",
-        "position": "Undergraduate Student",
+        "category": "Undergraduate Student",
         "email": "ejc012@uark.edu",
         "photo": "coffman.jpg",
         "years": "Since 2024",
@@ -395,7 +398,7 @@
     },
     {
         "name": "Kevin Joo",
-        "position": "Visiting Scholar",
+        "category": "Visiting Scholar",
         "email": "",
         "photo": "kevin_joo.jpg",
         "years": "May 2022 - Aug 2022",
@@ -408,7 +411,7 @@
     },
     {
         "name": "Kashu Yamazaki",
-        "position": "Alumni",
+        "category": "Alumni",
         "email": "kyamazak@uark.edu",
         "photo": "kashu_yamazaki.jpg",
         "years": "BASc (graduated 2022) - Meta",
@@ -422,7 +425,7 @@
     },
     {
         "name": "Gustavo Gracia",
-        "position": "Alumni",
+        "category": "Alumni",
         "email": "",
         "photo": "gustavo_gracia.png",
         "years": "BASc (graduated 2022) - Meta",
@@ -433,7 +436,7 @@
     },
     {
         "name": "Adrian de Luis",
-        "position": "Alumni",
+        "category": "Alumni",
         "email": "ad084@uark.edu",
         "photo": "adrian_luis.png",
         "years": "MSc (graduated 2023) - Dell",
@@ -453,7 +456,7 @@
     },
     {
         "name": "Sang Truong",
-        "position": "Alumni",
+        "category": "Alumni",
         "email": "",
         "photo": "sang_truong.jpg",
         "years": "MSc (graduated 2023)",
@@ -473,7 +476,7 @@
     },
     {
         "name": "Noah Core",
-        "position": "Alumni",
+        "category": "Alumni",
         "email": "",
         "photo": "noah_core.png",
         "years": "BSc (graduated 2023)",
@@ -481,7 +484,7 @@
     },
     {
         "name": "Kala Rohit",
-        "position": "Alumni",
+        "category": "Alumni",
         "email": "",
         "photo": "kala_rohit.png",
         "years": "BSc (graduated 2023)",
@@ -493,7 +496,7 @@
     },
     {
         "name": "Anh Tran",
-        "position": "Alumni",
+        "category": "Alumni",
         "email": "anhtran@uark.edu",
         "photo": "anh_tran.png",
         "years": "BSc (graduated 2025) - Tyson",
@@ -501,7 +504,7 @@
     },
     {
         "name": "Malachi Massey",
-        "position": "Alumni",
+        "category": "Alumni",
         "email": "mm204@uark.edu",
         "photo": "malachi_massey.jpg",
         "years": "BSc (graduated 2025) - Moss & Associates",
@@ -514,7 +517,7 @@
     },
     {
         "name": "Esteban Duran Marti",
-        "position": "Alumni",
+        "category": "Alumni",
         "email": "eaduran@uark.edu",
         "photo": "esteban_duran.jpeg",
         "years": "Masters Graduate May 2025 - capSpite",
@@ -526,7 +529,7 @@
     },
     {
         "name": "Phillip Cannon",
-        "position": "Alumni",
+        "category": "Alumni",
         "email": "",
         "photo": "phillip_cannon.png",
         "years": "Masters Graduate Dec 2025 - CTO at LexMed",
@@ -534,7 +537,7 @@
     },
         {
         "name": "Frederick Bumgarner",
-        "position": "Alumni",
+        "category": "Alumni",
         "email": "jzbumgar@uark.edu",
         "photo": "frederick_bumgarner.png",
         "years": "Undergraduate Dec 2025 - NextGen",
@@ -546,7 +549,7 @@
     },
     {
         "name": "Yuki Ikebe",
-        "position": "Masters Student",
+        "category": "Masters Student",
         "email": "yikebe@uark.edu",
         "photo": "yuki_ikebe.png",
         "years": "Since 2024",
@@ -559,7 +562,7 @@
     },
     {
         "name": "Johnmark Clements",
-        "position": "Undergraduate Student",
+        "category": "Undergraduate Student",
         "email": "jwc025@uark.edu",
         "photo": "johnmark_clements.jpg",
         "years": "Since 2024",
@@ -572,7 +575,7 @@
     },
     {
         "name": "Bryan Williams",
-        "position": "Undergraduate Student",
+        "category": "Undergraduate Student",
         "email": "bryanw@uark.edu",
         "photo": "bryan_williams.png",
         "years": "Since 2024",
@@ -593,7 +596,7 @@
     },
     {
         "name": "Gladys Gawugah",
-        "position": "Masters Student",
+        "category": "Masters Student",
         "email": "ggawugah@uark.edu",
         "photo": "gladys_gawugah.jpg",
         "years": "Since 2024",
@@ -611,7 +614,7 @@
     },
     {
         "name": "Sreevenkata Anjani Tishita Godavarthi",
-        "position": "Masters Student",
+        "category": "Masters Student",
         "email": "sg221@uark.edu",
         "photo": "sreevenkata.jpeg",
         "years": "Since 2025",
@@ -632,7 +635,7 @@
     },
     {
         "name": "Phu Loc Nguyen",
-        "position": "Masters Student",
+        "category": "Masters Student",
         "email": "pnguyen4@uark.edu",
         "photo": "phu_loc_nguyen.jpg",
         "years": "Since 2026",

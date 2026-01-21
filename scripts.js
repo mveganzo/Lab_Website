@@ -203,7 +203,7 @@ async function renderTeamPage() {
 
     // --- Group Data ---
     const groupedData = teamData.reduce((acc, member) => {
-        const positionKey = member.position || 'Other';
+        const positionKey = member.category || 'Other';
         if (!acc[positionKey]) acc[positionKey] = [];
         acc[positionKey].push(member);
         return acc;
@@ -241,9 +241,8 @@ async function renderTeamPage() {
                     </div>
 
                     <h3 class="text-xl font-bold text-gray-900 leading-tight">${member.name}</h3>
-                    
-                    <p class="text-sm font-medium text-gray-500 mt-2">${timeDisplay}</p>
                     <p class="text-sm font-semibold text-gray-900 mt-1">${member.position || ''}</p>
+                    <p class="text-sm font-medium text-gray-500 mt-2">${timeDisplay}</p>
                     <p class="text-xs text-blue-600 mt-3 font-semibold opacity-0 group-hover:opacity-100 transition-opacity duration-300">View Profile &rarr;</p>
                 </div>
             `;
