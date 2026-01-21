@@ -197,8 +197,8 @@ async function renderTeamPage() {
 
     // --- Define Custom Sorting Order ---
     const positionOrder = {
-        "Principal Investigator": 1, "Postdoctoral Researcher": 2, "Associate Researcher": 3, "PhD Student": 4,
-        "Masters Student": 5, "Undergraduate Student": 6, "Visiting Scholar": 7, "Alumni": 8, "Other": 99
+        "Staff": 1, "PhD Student": 2,
+        "Masters Student": 3, "Undergraduate Student": 4, "Visiting Scholar": 5, "Alumni": 6, "Other": 99
     };
 
     // --- Group Data ---
@@ -243,7 +243,7 @@ async function renderTeamPage() {
                     <h3 class="text-xl font-bold text-gray-900 leading-tight">${member.name}</h3>
                     
                     <p class="text-sm font-medium text-gray-500 mt-2">${timeDisplay}</p>
-                    
+                    <p class="text-sm font-semibold text-gray-900 mt-1">${member.position || ''}</p>
                     <p class="text-xs text-blue-600 mt-3 font-semibold opacity-0 group-hover:opacity-100 transition-opacity duration-300">View Profile &rarr;</p>
                 </div>
             `;

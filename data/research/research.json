@@ -20,7 +20,7 @@
   },
   {
     "title": "Robot Perception",
-    "icons": ["robot_perception_1.png"],
+    "icons": ["robot_perception_1.png", "robot_perception_2.png"],
     "items": ["3D Reconstruction",
               "Affordance Detection",
               "Robot Manipulation",
@@ -29,7 +29,7 @@
   },
   {
     "title": "Healthcare",
-    "icons": [""],
+    "icons": ["healthcare_1.png", "healthcare_2.png", "healthcare_3.png", "healthcare_4.png"],
     "items": ["Anatomies Localization",
               "Anomaly Detection",
               "Disease Diagnosis",
