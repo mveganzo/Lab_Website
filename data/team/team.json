@@ -8,7 +8,6 @@
         "email": "thile@uark.edu",
         "links": [
             { "label": "Google Scholar", "url": "https://scholar.google.com/citations?user=8ck0k_UAAAAJ"},
-            { "label": "Resume", "url": "data/team/documents/NganLe_CV.pdf"},
             { "label": "LinkedIn", "url": "https://www.linkedin.com/in/ngan--le"}
         ],
 
@@ -116,6 +115,15 @@
             {
                 "heading": "Awards & Scholarships",
                 "data": [
+                    "NSF CAREER, 2025",
+                    "Dean’s Award of Excellence Collaborative Faculty Research Award, 2024 - 2025",
+                    "Dean’s Excellence Teaching Award, 2022 - 2023 (nominated)",
+                    "Winning the 2023 Best Paper Award, Brain Sciences, 2023 - 2024",
+                    "Best Paper Finalist, IROS, Detroit, Oct. 2023",
+                    "The Best Instructor, Google Applied Machine Learning Bootcamp, Summer 2022",
+                    "The Best Instructor, Google Applied Machine Learning Bootcamp, Summer 2021",
+                    "Editor’s Choice Articles, Brain Sciences, 2021",
+                    "Top 1st ranking in the Vision for Intelligent Vehicles and Applications (VIVA) Challenge 2017, 2018, 2019",
                     "NIH Travel Award, MICCAI 2018 (Spain)",
                     "PhD Scholarship, Carnegie Mellon University (2011 - 2018)",
                     "PhD Scholarship, Concordia University, Canada (2010)",
@@ -126,12 +134,17 @@
                 ]
             },
             {
-                "heading": "Academic Services",
+                "heading": "Professional Services",
                 "data": [
-                    "Conference Reviewer: CVPR, NIPS, MICCAI, ICDAR",
-                    "Journal Reviewer: Transactions on Signal Processing",
-                    "Journal Reviewer: Transactions on Image Processing",
-                    "Journal Reviewer: Pattern Recognition Letters"
+                    "Journal Editor: Associate Editor, Machine Learning with Applications (ScienceDirect)",
+                    "Conference Board: Area Chair / Technical Chair / Workshop Chair at AAAI, IJCAI, ACCV, MICCAI, ICRA, Asilomar",
+                    "Workshop Organizer: MICCAI, ACCV, ICCV (Medical AI, Multimodal Learning, Interpretability, Trustworthy AI)",
+                    "Funding Panelist: NSF (IIS, SBIR, GRFP, EPSCoR, NASA, Data Science, Robotics, Agriculture)",
+                    "Journal Reviewer: TPAMI, IJCV, MIA, TIP, TSP, TAI, PR, AIRE, AIM",
+                    "Conference Reviewer: CVPR, NeurIPS, ICML, ICCV, ECCV, AAAI, IJCAI, ICLR, MICCAI, WACV, BMVC",
+                    "Academic Leadership: Chair, AI Concentration Program; Lead Instructor, Google NACMI",
+                    "Mentorship & Instruction: MICCAI, DART ASRI, University of Arkansas, ACM Student Research",
+                    "Institutional Service: Faculty Search Committees; Diversity & Inclusion Leadership"
                 ]
             }
         ]

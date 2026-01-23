@@ -7,15 +7,8 @@ We are excited to announce open positions **(fully funded MSc and PhD students)*
 - Develop state-of-the-art multi-camera systems accurate and efficient tracking of dense objects with similar appearances.
 - Collaborate with interdisciplinary teams in agriculture and poultry science to deploy solutions in real-world applications.
 
-## 2. Remote Sensing: Precision Agriculture (2 Positions)
-**Focus**: Drone and satellite image analysis for agricultural applications.
 
-**Responsibilities**:
-- Collect, analyze, and interpret drone and satellite imagery to improve agricultural practices.
-- Develop models and tools for precision agriculture, including crop health monitoring and yield prediction.
-- Work with data scientists and agricultural experts to refine solutions for practical implementation.
-
-## 3. Robotics: Robotic Arm Manipulation (2 Positions)
+## 2. Robotics: Robotic Arm Manipulation (1 Positions)
 **Focus**: Robotic arm manipulation using exocentric and egocentric views.
 
 **Responsibilities**:

@@ -446,7 +446,7 @@ async function renderResearchPage() {
                     <p class="text-lg text-gray-600 mt-4">Explore our ongoing research in Computer Vision, Robotics, and Human-AI Interaction.</p>
                 </div>
                 
-                <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+                <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8">
                     ${researchCards}
                 </div>
             </div>
@@ -551,6 +551,9 @@ async function renderPublicationsPage() {
     return ` 
         <div class="py-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <h2 class="text-4xl font-extrabold text-gray-900 mb-10 border-b-4 pb-3 border-gray-500">Publications</h2> 
+            <div class="mb-6 p-4 bg-yellow-50 border-l-4 border-yellow-400 text-yellow-800 rounded-md font-medium">
+                Publications will be updated soon.
+            </div>
             <div class=""> 
                 ${contentHtml} 
             </div> 
