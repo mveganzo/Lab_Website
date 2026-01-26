@@ -151,22 +151,46 @@ async function renderHome() {
     // --- 5. SPONSORS/AFFILIATIONS SECTION ---
     let sponsorsSection = '';
     if (sponsorsData && sponsorsData.length > 0) {
-        const logoHtml = sponsorsData.map(sponsor => `
-            <div class="p-4 flex items-center justify-center">
-                <img src="data/home/images/${sponsor.logo}" alt="${sponsor.name} Logo" 
-                    class="h-16 w-auto object-contain"
-                    onerror="this.onerror=null; this.src='https://placehold.co/120x64/f3f4f6/6b7280?text=LOGO'">
-            </div>
-        `).join('');
 
-        sponsorsSection = `
-            <div class="mt-16 pt-8 border-t border-gray-200">
-                <h2 class="text-2xl font-bold text-center text-gray-700 mb-8">Our Sponsors & Affiliations</h2>
-                <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-5 gap-2">
-                    ${logoHtml}
-                </div>
+    const groups = [
+        { key: 'federal', title: 'Federal' },
+        { key: 'internal', title: 'Internal' },
+        { key: 'industrial', title: 'Industrial' }
+    ];
+
+    const renderLogos = (list) => list.map(sponsor => `
+        <div class="p-3 flex items-center justify-center">
+        <img src="data/home/images/${sponsor.logo}" alt="${sponsor.name} Logo"
+            class="h-14 w-auto object-contain"
+            onerror="this.onerror=null; this.src='https://placehold.co/120x64/f3f4f6/6b7280?text=LOGO'">
+        </div>
+    `).join('');
+
+    const columnsHtml = groups.map(g => {
+        const list = sponsorsData.filter(s => (s.group || '').toLowerCase() === g.key);
+        if (list.length === 0) return '';
+
+        return `
+        <div>
+            <h3 class="text-lg font-bold text-gray-700 mb-4 text-center">${g.title}</h3>
+            <div class="grid grid-cols-2 gap-2">
+            ${renderLogos(list)}
             </div>
+        </div>
         `;
+    }).join('');
+
+    sponsorsSection = `
+        <div class="mt-16 pt-8 border-t border-gray-200">
+        <h2 class="text-2xl font-bold text-center text-gray-700 mb-10">
+            Our Sponsors & Affiliations
+        </h2>
+
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+            ${columnsHtml}
+        </div>
+        </div>
+    `;
     }
 
     // Combine all sections: Title -> Hero -> About -> Positions -> News -> Sponsors

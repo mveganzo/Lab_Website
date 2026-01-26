@@ -1,6 +1,6 @@
 We are excited to announce open positions **(fully funded MSc and PhD students)** for passionate students in the following cutting-edge areas:
 
-## 1. Computer Vision: Multi-Object Tracking (1 Positions)
+## 1. Computer Vision: Multi-Object Tracking (1 Position)
 **Focus**: Multi-camera, multi-object tracking with an emphasis on dense and similar object tracking.
 
 **Responsibilities**:
@@ -8,7 +8,7 @@ We are excited to announce open positions **(fully funded MSc and PhD students)*
 - Collaborate with interdisciplinary teams in agriculture and poultry science to deploy solutions in real-world applications.
 
 
-## 2. Robotics: Robotic Arm Manipulation (1 Positions)
+## 2. Robotics: Robotic Arm Manipulation (1 Position)
 **Focus**: Robotic arm manipulation using exocentric and egocentric views.
 
 **Responsibilities**:

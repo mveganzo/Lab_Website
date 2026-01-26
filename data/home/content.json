@@ -52,47 +52,64 @@
   "sponsors": [
     {
       "name": "Adisseo",
-      "logo": "adisseo.png"
+      "logo": "adisseo.png",
+      "group": "industrial"
     },
     {
       "name": "AI_Sustein",
-      "logo": "ai_sustein.webp"
+      "logo": "ai_sustein.webp",
+      "group": "federal"
     },
     {
       "name": "Aviagen",
-      "logo": "aviagen.jpg"
+      "logo": "aviagen.jpg",
+      "group": "industrial"
     },
     {
       "name": "Cobb",
-      "logo": "cobb.png"
+      "logo": "cobb.png",
+      "group": "industrial"
     },
     {
       "name": "NIH",
-      "logo": "nih.jpg"
+      "logo": "nih.jpg",
+      "group": "federal"
     },
     {
       "name": "NSF",
-      "logo": "nsf.jpg"
+      "logo": "nsf.jpg",
+      "group": "federal"
     },
     {
       "name": "Tyson",
-      "logo": "tyson.png"
+      "logo": "tyson.png",
+      "group": "industrial"
     },
     {
       "name": "UA_Power_Group",
-      "logo": "ua_power_group.png"
+      "logo": "ua_power_group.png",
+      "group": "internal"
     },
     {
       "name": "Uark_Agri",
-      "logo": "uark_agri.jpg"
+      "logo": "uark_agri.jpg",
+      "group": "internal"
     },
     {
       "name": "Uark_Engineering",
-      "logo": "uark_eng.jpg"
+      "logo": "uark_eng.jpg",
+      "group": "internal"
     },
     {
       "name": "Winnow",
-      "logo": "winnow.jpg"
+      "logo": "winnow.jpg",
+       "group": "industrial"
+    },
+    {
+      "name": "Walmart",
+      "logo": "walmart.png.jpeg",
+      "group": "industrial"
     }
+
   ]
 }
